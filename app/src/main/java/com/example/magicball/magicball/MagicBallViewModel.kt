@@ -1,4 +1,4 @@
-package com.example.magicball.MagicBallFragment
+package com.example.magicball.magicball
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
